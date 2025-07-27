@@ -1,0 +1,7 @@
+satellites.db
+bandwidth.db
+storage_usage.db
+piece_spaced_used.db
+reputation.db
+heldamount.db
+pricing.db
